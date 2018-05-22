@@ -66,6 +66,13 @@
 			]
 		},
 		"linux": {
+			"category": "Network;Chat",
+			"packageCategory": "net",
+			"desktop": {
+				"Name": "Caprine",
+				"Comment": "Elegant Facebook Messenger desktop app",
+				"StartupWMClass": "caprine"
+			},
 			"target": [
 				"AppImage",
 				"deb"
